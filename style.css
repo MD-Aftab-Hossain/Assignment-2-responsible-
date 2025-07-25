@@ -338,7 +338,7 @@ nav a {
 }
 @media screen and (max-width:576px) {
 
-    /* nav style  */
+    /* nav*/
     .home,
     .mid {
         display: none;
@@ -349,7 +349,7 @@ nav a {
     }
 
 
-    /* bnr */
+    /* banner*/
     .banner {
         flex-direction: column-reverse;
         margin-top: 30px;
@@ -392,7 +392,6 @@ nav a {
 
     .plant-cards {
         grid-template-columns: repeat(2, 1fr);
-        /* padding: 5px; */
     }
 
 
@@ -401,7 +400,7 @@ nav a {
         width: 100%;
     }
 
-    /* lover style  */
+    /* lover*/
     .lover {
         flex-direction: column;
     }
@@ -422,7 +421,7 @@ nav a {
         font-size: 1.5rem;
     }
 
-    /* deal style  */
+    /* deal*/
     .deal-flat {
         grid-template-columns: 1fr;
         gap: 20px;
@@ -450,7 +449,7 @@ nav a {
     .big a {
         font-size: 1rem;
     }
-    /* join style  */
+    /* join*/
     .join{
         height: 276px;
         background-size: 100vw 100%;
@@ -470,7 +469,7 @@ nav a {
         padding: 15px 13px;
         width: 35%;
     }
-    /* footer style  */
+    /* footer */
     .foot{
         grid-template-columns: 1fr;
     }
